@@ -1,0 +1,54 @@
+[
+   {
+      "title": "Activity News",
+      "horizontal": false,
+      "data": [
+         {
+            "actname": "水獺洗臉教學",
+            "image": "https://github.com/leeinxuan/babyzoo/blob/main/src/img/otter_activity.jpg?raw=true"
+         },
+         {
+            "actname": "樹懶寫生比賽",
+            "image": "https://github.com/leeinxuan/babyzoo/blob/main/src/img/sloth_activity.jpg?raw=true"
+         },
+         {
+            "actname": "尋找獨角獸",
+            "image": "https://github.com/leeinxuan/babyzoo/blob/main/src/img/unicorn_activity.jpg?raw=true"
+         },
+         {
+            "actname": "水豚君橘子秀",
+            "image": "https://github.com/leeinxuan/babyzoo/blob/main/src/img/capybara_activity.jpg?raw=true"
+         }
+      ]
+   },
+   {
+      "title": "Newest",
+      "horizontal": true,
+      "data": [
+         {
+            "bookname": "Yves Saint Laurent",
+            "author": "Suzy Menkes",
+            "showStar":true,
+            "star":4,
+            "image": "https://github.com/leeinxuan/BookStore/blob/master/src/img/img_book_ysl.png?raw=true",
+            "descriptions": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+         },
+         {
+            "bookname": "The Book of Signs",
+            "author": "Rudolf Koch",
+            "showStar":true,
+            "star":3,
+            "image": "https://github.com/leeinxuan/BookStore/blob/master/src/img/img_book_tbos.png?raw=true",
+            "descriptions": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+         },
+         {
+            "bookname": "Stitched Up",
+            "author": "Tansy E. Hoskins",
+            "showStar":true,
+            "star":3,
+            "image": "https://github.com/leeinxuan/BookStore/blob/master/src/img/img_book_stitchedup.png?raw=true",
+            "descriptions": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+         }
+      ]
+   }
+]

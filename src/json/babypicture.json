@@ -1,0 +1,28 @@
+{
+    "animals": [
+      {
+        "name": "penguin",
+        "images": [
+          "penguinbaby.jpeg",
+          "penguinbaby2.jpeg",
+          "penguinbaby3.jpeg"
+        ]
+      },
+      {
+        "name": "lion",
+        "images": [
+          "lionbaby.jpeg",
+          "lionbaby2.jpeg",
+          "lionbaby3.jpeg"
+        ]
+      },
+      {
+        "name": "elephant",
+        "images": [
+          "elephantbaby.jpeg",
+          "elephantbaby2.jpeg",
+          "elephantbaby3.jpeg"
+        ]
+      }
+    ]
+  }
